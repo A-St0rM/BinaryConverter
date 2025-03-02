@@ -1,4 +1,4 @@
-from algorithm import encode, decode
+from src.algorithm import encode, decode
 
 choice = int(input("Which one would i like to choose"))
 print("1. Encode")
